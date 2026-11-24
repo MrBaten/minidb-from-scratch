@@ -1,0 +1,15 @@
+# Build output
+target/
+out/
+*.class
+
+# Database files
+*.db
+*.journal
+data/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
